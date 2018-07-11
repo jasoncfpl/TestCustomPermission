@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<live_wallpaper xmlns:wallpaper="http://schemas.android.com/apk/res-auto">
+    <preview>
+        <pic wallpaper:test_src="@drawable/wallpaper_preview" />
+    </preview>
+</live_wallpaper>

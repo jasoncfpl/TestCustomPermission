@@ -1,0 +1,12 @@
+<resources>
+    <string name="wallpaper_name11">Test_Custom_Permission</string>
+    <string name="app_name">TestCustomPermission</string>
+    <string name="wallpaper_test">Test</string>
+
+    <string name="wallpaper_b">Testb</string>
+    <string name="wallpaper_a">Testa</string>
+
+    <string name="wallpaper_name">Test_Custom_Permission_wallpaper_name</string>
+
+
+</resources>

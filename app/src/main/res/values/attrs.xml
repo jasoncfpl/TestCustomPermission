@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="test_name" format="reference|string" />
+    <attr name="test_src" format="reference|color" />
+
+</resources>
